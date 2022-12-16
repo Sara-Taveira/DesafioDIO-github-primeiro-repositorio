@@ -5,6 +5,10 @@ Desafio de projeto sobre Git/Github
 
 [Sintax básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+[Trabalhando com Branches no GitHub](https://web.dio.me/course/trabalhando-com-branches-no-github/learning/32d05c5a-53b7-4f1d-a798-b9a8658240de) 
+
+[Git e GitHub focado em PullRequest](https://web.dio.me/course/git-e-github-focado-em-pullrequest/learning/7ee9e586-a200-41de-a075-fd6a7b4b5a1e)
+
 #### Desenvolvendo o pensamento computacional trabalhando a sintaxe na construção dos algoritmos 
 
 [Portugol Webstudio](https://dgadelha.github.io/Portugol-Webstudio/)
