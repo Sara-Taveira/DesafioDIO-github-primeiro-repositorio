@@ -33,6 +33,31 @@ COMMITS-
 
 #### Alguns comandos 
 
-* git init = Iniciar um repositporio git
-* git add = mover arquivos para o stag 
+* git init = Iniciar um repositório git e possibilitar que o git começe a gerenciar e versionar o código.
+* git add = mover arquivos para o stag / git add*= todos os arqivos
 * git commit = mover arquivo para o repositório local
+* ls = listar o conteúdo do arquivo 
+* -a= flag, serve pra modificar comandos diferentes, que mostra arquivos ocultos.
+* -m = adicionar uma mensagem
+* echo > = criar um arquivo
+
+VERSIONAMENTO DE CÓDIGO
+TRACKED E UNTRACKED
+Assim que criar um arquivo ele fica -->
+Untracked= o git ainda não reconheceu o arquivo
+Após o comando | git add*| o arquivo fica -->
+Staged = o git reconhece o arquivo e ele está pronto para ser usado/commitado
+Unmodified= arquivo que ainda não sofreu nenhuma modificação 
+Modified= arquivo que já sofreu alguma modificação
+Após o comando | git commit | o arquivo vai para o repositório local 
+
+AMBIENTE DE DESENVOLVIMENTO 
+*Working directory
+*Staging area
+*Local repository
+
+SERVIDOR
+*Remote repository
+
+
+
